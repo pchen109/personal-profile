@@ -11,6 +11,10 @@
 - install `open in browser` extension in VS code and use `ALT + B` to display HTML in browser
 - install `live server` extension in VS code and right click to select `Open with Live Server`
 - press `Ctrl + Shift + V` to display markdown file in VS code
+- **GIT COMMANDS**
+	- `git config --gloabl user.email "pchen@my.bcit.ca"`
+	- `git config --global user.name "mundo"`
+	- `git commit --amend`		edit the currently committed message 
 
 ##### Q1
 1. Imagine that a user types `http://www.example.com/test.html` in a browser address bar on A.
